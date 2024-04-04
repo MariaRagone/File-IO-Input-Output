@@ -1,0 +1,15 @@
+C:\Users\maria\source\repos\Day 13 File IO Exercise\Day 13 File IO Exercise\bin\Debug\net6.0\Day 13 File IO Exercise.exe
+C:\Users\maria\source\repos\Day 13 File IO Exercise\Day 13 File IO Exercise\bin\Debug\net6.0\Day 13 File IO Exercise.deps.json
+C:\Users\maria\source\repos\Day 13 File IO Exercise\Day 13 File IO Exercise\bin\Debug\net6.0\Day 13 File IO Exercise.runtimeconfig.json
+C:\Users\maria\source\repos\Day 13 File IO Exercise\Day 13 File IO Exercise\bin\Debug\net6.0\Day 13 File IO Exercise.dll
+C:\Users\maria\source\repos\Day 13 File IO Exercise\Day 13 File IO Exercise\bin\Debug\net6.0\Day 13 File IO Exercise.pdb
+C:\Users\maria\source\repos\Day 13 File IO Exercise\Day 13 File IO Exercise\obj\Debug\net6.0\Day 13 File IO Exercise.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\Day 13 File IO Exercise\Day 13 File IO Exercise\obj\Debug\net6.0\Day 13 File IO Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\Day 13 File IO Exercise\Day 13 File IO Exercise\obj\Debug\net6.0\Day 13 File IO Exercise.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\Day 13 File IO Exercise\Day 13 File IO Exercise\obj\Debug\net6.0\Day 13 File IO Exercise.AssemblyInfo.cs
+C:\Users\maria\source\repos\Day 13 File IO Exercise\Day 13 File IO Exercise\obj\Debug\net6.0\Day 13 File IO Exercise.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Day 13 File IO Exercise\Day 13 File IO Exercise\obj\Debug\net6.0\Day 13 File IO Exercise.dll
+C:\Users\maria\source\repos\Day 13 File IO Exercise\Day 13 File IO Exercise\obj\Debug\net6.0\refint\Day 13 File IO Exercise.dll
+C:\Users\maria\source\repos\Day 13 File IO Exercise\Day 13 File IO Exercise\obj\Debug\net6.0\Day 13 File IO Exercise.pdb
+C:\Users\maria\source\repos\Day 13 File IO Exercise\Day 13 File IO Exercise\obj\Debug\net6.0\Day 13 File IO Exercise.genruntimeconfig.cache
+C:\Users\maria\source\repos\Day 13 File IO Exercise\Day 13 File IO Exercise\obj\Debug\net6.0\ref\Day 13 File IO Exercise.dll

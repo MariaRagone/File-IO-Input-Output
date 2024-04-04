@@ -1,0 +1,15 @@
+C:\Users\maria\source\repos\Day 13 File IO (Input Output) Lecture\Day 13 File IO (Input Output) Lecture\bin\Debug\net6.0\Day 13 File IO (Input Output) Lecture.exe
+C:\Users\maria\source\repos\Day 13 File IO (Input Output) Lecture\Day 13 File IO (Input Output) Lecture\bin\Debug\net6.0\Day 13 File IO (Input Output) Lecture.deps.json
+C:\Users\maria\source\repos\Day 13 File IO (Input Output) Lecture\Day 13 File IO (Input Output) Lecture\bin\Debug\net6.0\Day 13 File IO (Input Output) Lecture.runtimeconfig.json
+C:\Users\maria\source\repos\Day 13 File IO (Input Output) Lecture\Day 13 File IO (Input Output) Lecture\bin\Debug\net6.0\Day 13 File IO (Input Output) Lecture.dll
+C:\Users\maria\source\repos\Day 13 File IO (Input Output) Lecture\Day 13 File IO (Input Output) Lecture\bin\Debug\net6.0\Day 13 File IO (Input Output) Lecture.pdb
+C:\Users\maria\source\repos\Day 13 File IO (Input Output) Lecture\Day 13 File IO (Input Output) Lecture\obj\Debug\net6.0\Day 13 File IO (Input Output) Lecture.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\Day 13 File IO (Input Output) Lecture\Day 13 File IO (Input Output) Lecture\obj\Debug\net6.0\Day 13 File IO (Input Output) Lecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\Day 13 File IO (Input Output) Lecture\Day 13 File IO (Input Output) Lecture\obj\Debug\net6.0\Day 13 File IO (Input Output) Lecture.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\Day 13 File IO (Input Output) Lecture\Day 13 File IO (Input Output) Lecture\obj\Debug\net6.0\Day 13 File IO (Input Output) Lecture.AssemblyInfo.cs
+C:\Users\maria\source\repos\Day 13 File IO (Input Output) Lecture\Day 13 File IO (Input Output) Lecture\obj\Debug\net6.0\Day 13 File IO (Input Output) Lecture.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Day 13 File IO (Input Output) Lecture\Day 13 File IO (Input Output) Lecture\obj\Debug\net6.0\Day 13 File IO (Input Output) Lecture.dll
+C:\Users\maria\source\repos\Day 13 File IO (Input Output) Lecture\Day 13 File IO (Input Output) Lecture\obj\Debug\net6.0\refint\Day 13 File IO (Input Output) Lecture.dll
+C:\Users\maria\source\repos\Day 13 File IO (Input Output) Lecture\Day 13 File IO (Input Output) Lecture\obj\Debug\net6.0\Day 13 File IO (Input Output) Lecture.pdb
+C:\Users\maria\source\repos\Day 13 File IO (Input Output) Lecture\Day 13 File IO (Input Output) Lecture\obj\Debug\net6.0\Day 13 File IO (Input Output) Lecture.genruntimeconfig.cache
+C:\Users\maria\source\repos\Day 13 File IO (Input Output) Lecture\Day 13 File IO (Input Output) Lecture\obj\Debug\net6.0\ref\Day 13 File IO (Input Output) Lecture.dll
